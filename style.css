@@ -4,12 +4,13 @@ body{
          opacity: 2.5;
     }
 h1{
-    color: rgb(233, 220, 220);
+    color: rgb(31, 31, 56);
     font-size: 96px;
     text-align: left;
+    font-family: roboto;
      }
  h2{
-    color:rgb(36, 36, 230);
+    color:rgb(31, 31, 56);
     font-size :36px;
     text-align: left
     }
@@ -40,7 +41,7 @@ h1{
 }
 
 .aboutme h1 {
-    color: white;
+    color: rgb(31, 31, 56);
     font-size: 50px;
 }
 

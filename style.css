@@ -26,7 +26,7 @@ h1{
     width: 90%;
     height: 90vh;
     margin: 0 auto;
-    background-image: linear-gradient(to left, rgba(0,0,0, 0.6), rgba(0,0,0, 0.7)), url("images/image.jpg");
+    background-image: linear-gradient(to left, rgba(0,0,0, 0.6), rgba(0,0,0, 0.7)), url("/images/photo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -50,4 +50,10 @@ h1{
 .dropcap{
     font-size: 50px;
     color: aquamarine;
+}
+.start {
+    background-image: url('/images/photo.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }

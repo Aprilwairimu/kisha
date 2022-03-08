@@ -24,7 +24,7 @@ h1{
 }
 
 .hero-wrapper{
-    width: 90%;
+    width: 91%;
     height: 90vh;
     margin: 0 auto;
     background-image: linear-gradient(to left, rgba(58, 53, 53, 0.6), rgba(0,0,0, 0.7)), url("/images/photo.jpg");
